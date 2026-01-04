@@ -9,8 +9,10 @@ This web app is made using vanilla Javascript
 4. Clone this repository.
 5. Create a new file called 'config.js' to your cloned repository.
 6. Copy the following code to your 'config.js'.
+   ```javascript
     const config = {
       apiKey: '{YOUR_API_KEY}'
     };
-7. Replace '{YOUR_API_KEY}' with your previously copied api key.
-8. You're done and ready to use the app.
+8. Replace '{YOUR_API_KEY}' with your previously copied api key.
+9. You're done and ready to use the app.
+
